@@ -32,9 +32,9 @@ Ideologies, Stereotypes and Agency
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Course Ideologies and Conceptual Maps (PDF)]({{< baseurl >}}/resources/mitcms_701s15_ideologies)
+[Course Ideologies and Conceptual Maps (PDF)]({{< baseurl >}}/resources/mitcms_701s15_ideologies)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Stereotypes and Agency (PDF)]({{< baseurl >}}/resources/mitcms_701s15_stereotype)
+[Stereotypes and Agency (PDF)]({{< baseurl >}}/resources/mitcms_701s15_stereotype)
 
 
 {{< tdclose >}}
@@ -50,7 +50,7 @@ Propaganda, Censorship and Net Neutrality
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Propaganda and Censorship (PDF)]({{< baseurl >}}/resources/mitcms_701s15_propaganda)
+[Propaganda and Censorship (PDF)]({{< baseurl >}}/resources/mitcms_701s15_propaganda)
 
 [Propaganda Survival Guide (PDF)]({{< baseurl >}}/resources/mitcms_701s15_srvivalguid)
 
@@ -66,7 +66,7 @@ Propaganda, Censorship and Net Neutrality
 Violence in Media and Video Games
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Media Violence (PDF)]({{< baseurl >}}/resources/mitcms_701s15_mediavoil)
+[Media Violence (PDF)]({{< baseurl >}}/resources/mitcms_701s15_mediavoil)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,7 +78,7 @@ Violence in Media and Video Games
 From Big Data to Big Brother: Surveillance and Privacy in the Information Age
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Big Data (PDF - 1.8MB)]({{< baseurl >}}/resources/mitcms_701s15_bigdata)
+[Big Data (PDF - 1.8MB)]({{< baseurl >}}/resources/mitcms_701s15_bigdata)
 {{< tdclose >}}
 
 {{< trclose >}}
