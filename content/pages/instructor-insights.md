@@ -91,7 +91,7 @@ Curriculum Information
 
 ### Prerequisites
 
-[_CMS.100 Introduction to Media Studies_](/courses/cms-100-introduction-to-media-studies-fall-2014/)
+[_CMS.100 Introduction to Media Studies_](/courses/cms-100-introduction-to-media-studies-fall-2014)
 
 ### Requirements Satisfied
 

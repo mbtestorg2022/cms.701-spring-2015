@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 8bbd0df2-02ec-5150-a5d4-1d0325fbf268
 resourcetype: Image
 title: 290x180-Classroom-photo.jpg
 uid: 6da8ab6e-265a-2ff4-17f1-2b244ae8fce0
